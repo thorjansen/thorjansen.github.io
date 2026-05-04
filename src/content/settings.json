@@ -1,0 +1,26 @@
+{
+  "github": "thorjansen",
+  "camera": "Canon A1 (yea old style)",
+  "bio": "I do social network schtuff, mostly politics",
+  "showDates": true,
+  "mastodon": "",
+  "author": "thorjansen",
+  "logo": {
+    "type": "text",
+    "image": "",
+    "text": ""
+  },
+  "enableSocial": true,
+  "navStyle": "float",
+  "instagram": "",
+  "location": "Pasadena, CA",
+  "title": "thorjansen's Photos",
+  "avatar": "/images/avatar.jpg",
+  "description": "A photography site on the Pirate Social network",
+  "cloudinary": {
+    "enabled": false,
+    "cloudName": "",
+    "apiKey": ""
+  },
+  "giphyKey": ""
+}
